@@ -10,7 +10,7 @@
 * To deactivate pipenv: **exit**
 * To install requirements and run project: 
     1. Activate pipenv
-    2. To install dependencies required **pipenv install**
+    2. To install dependencies required run **pipenv install**
     3. Run **python manage.py makemigrations**
     4. Run **python manage.py migrate** to make migrations
     6. To run **python manage.py runserver**
